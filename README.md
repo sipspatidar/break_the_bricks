@@ -5,5 +5,8 @@ steps to run:
 2)run the break_the_bricks.py file using python(example: python break_the_bricks.py)
 3)enjoy the game :)
 
+watch gameplay video on youtube
+https://youtu.be/pgqRLzjtCjM
+
 for more details contact with me:
 gmail : patidar.sumit1110@gmail.com
